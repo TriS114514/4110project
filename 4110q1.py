@@ -1,5 +1,5 @@
 #4110 final project assignment
-#Author: Shohei Saito &
+#Author: Shohei Saito & Darsh Thanki
 #Topic 1: generate random path, illistrate puring process, compute p-center problem
 
 # p-center
