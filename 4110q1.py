@@ -12,11 +12,11 @@ from random import choice
 #%matplotlib inline
 np.random.seed(1)
 
-#get all_pairs_shortest_path of given graph.
+#get all_pairs_shortest_path (apsp) of given graph.
 def get_apsp(graphx, all_node_keys):
     apsp = {}
     for i, node in enumerate(all_node_keys):
-        #print('{}/{}'.format(i, len(all_node_keys)))
+        #print('{}:{}'.format(i, len(all_node_keys)))
         # Compute the length of paths from node to every other node
         apsp[node] = nx.shortest_path_length(graphx, source=node)
 
@@ -76,6 +76,7 @@ def calc_p_center(centers, all_node_keys, app_maxs, cost_center):
                 prospect_distance = app_maxs[prospect]
                 if prospect not in cost_center:
                     # Replace `center` in cost_center with `prospect`
+                    print("prospect: ", prospect)
                     new_cost_center = {k:v for k,v in cost_center.items() if k != center}
                     new_cost_center[prospect] = prospect_distance
                     if sum(new_cost_center.values()) < sum(cost_center.values()):
@@ -128,7 +129,6 @@ ppt = math.ceil(opt/2)
 print(opt)
 print(ppt)
 plist = []
-
 
 p_center(p, G);
 
