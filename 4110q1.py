@@ -22,6 +22,26 @@ def get_apsp(graphx, all_node_keys):
 
     return apsp
 
+def c_cost(centers, all_node_keys, graphx, node_pointer): # determine the max cost for current p-centers
+    cost = 0
+    min_cost = len(all_node_keys)
+    # find the shortest path from all p, keep the max value
+    for f in node_pointer:
+        for g in centers: # do a pruning step is a node can't be max length
+            temp_cost = nx.shortest_path_length(graphx, g, graphx[f])
+            if temp_cost = 0: # if length is 0, then can't be max length so prune
+                node_pointer.pop(f, None)
+                break
+            else if temp_cost < min_cost:
+                min_cost = temp_cost
+    if min_cost > cost:
+        cost=min_cost
+        min_cost = len(all_node_keys)
+    
+    
+    return cost
+
+
 def p_center(p, graphx):
 
     all_node_keys = list(graphx._node.keys())
@@ -42,13 +62,19 @@ def p_center(p, graphx):
     centers = all_node_keys[:p]
 
     # Compute the total cost for each center in `centers`
-    cost_center = {k: app_maxs[k] for k in centers}
+    #cost_center = {k: app_maxs[k] for k in centers}
+    node_pointer = []
+    for e in graphx:
+        node_pointer.append(e)
+    
+    cost_center = c_cost(centers, all_node_keys, graphx, node_pointer) # compute the largest cost for current p-center
 
     centers, cost_center = calc_p_center(
         centers,
         all_node_keys,
-        app_maxs,
-        cost_center
+        #app_maxs,
+        cost_center,
+        node_pointer
     )
 
     node_information = {}
@@ -62,7 +88,7 @@ def p_center(p, graphx):
 
     return total_cost, node_information
 
-def calc_p_center(centers, all_node_keys, app_maxs, cost_center):
+def calc_p_center(centers, all_node_keys, cost_center, node_pointer):
     """
     Pick an arbitrary solution. Then replace each with was a node that isn't part of the
     previous solution. If the max distance is less that the prior solution, swap that node.
@@ -73,18 +99,25 @@ def calc_p_center(centers, all_node_keys, app_maxs, cost_center):
             if wrap:
                 break
             for j, prospect in enumerate(all_node_keys):
-                prospect_distance = app_maxs[prospect]
-                if prospect not in cost_center:
+                new_centers = centers # make copy of center to change
+                #prospect_distance = app_maxs[prospect]
+                if prospect not in centers:
                     # Replace `center` in cost_center with `prospect`
-                    print("prospect: ", prospect)
-                    new_cost_center = {k:v for k,v in cost_center.items() if k != center}
-                    new_cost_center[prospect] = prospect_distance
-                    if sum(new_cost_center.values()) < sum(cost_center.values()):
+                    #print("prospect: ", prospect)
+                    #new_cost_center = {k:v for k,v in cost_center.items() if k != center}
+                    #new_cost_center[prospect] = prospect_distance
+                    new_centers.pop(center, None)
+                    new_centers.append(prospect)
+                    new_cost = c_cost(new_centers, all_node_keys, graphx, node_pointer)
+                    #if sum(new_cost_center.values()) < sum(cost_center.values()):
+                    if new_cost < cost_center:
+                        centers = new_centers
+                        cost_center=new_cost
                         # If we're better off with `prospect`, then use it instead
-                        cost_center.pop(center, None)
-                        cost_center[prospect] = app_maxs[prospect]
+                        #cost_center.pop(center, None)
+                        #cost_center[prospect] = app_maxs[prospect]
                         # Reassign centers and restart the while loop
-                        medians = [x for x in cost_center]
+                        #medians = [x for x in cost_center]
                         wrap = True
                         break # out of the For loop
         if not wrap:
