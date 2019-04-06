@@ -30,24 +30,19 @@ def c_cost(centers, all_node_keys, graphx, node_pointer): # determine the max co
     apsp = get_apsp(graphx, all_node_keys)
     # find the shortest path from all p, keep the max value
     for node in node_pointer:
+        min_cost = len(all_node_keys)
         for center in centers: # do a pruning step is a node can't be max length
             #print(*centers)
             #print(*node_pointer)
             temp_cost = nx.shortest_path_length(graphx, center, node)
-            if temp_cost == 0: # if length is 0, then can't be max length so prune
-                node_pointer.pop(node)
-                pop = True
-                break
-            elif temp_cost < min_cost:
-                min_cost = temp_cost
-        if pop:
-            pop = False
-            break
-    if min_cost > cost:
-        cost=min_cost
-        min_cost = len(all_node_keys)
-
-
+            #    node_pointer.pop(node)
+            #    pop = True
+            #    continue
+            if temp_cost < min_cost:
+                min_cost = temp_cost    
+        if min_cost > cost:
+            cost=min_cost
+            
     return cost
 
 
@@ -70,7 +65,7 @@ def p_center(p, graphx):
     # Assign the first 'p' nodes to be our solution
     centers = all_node_keys[:p]
 
-    # Compute the total cost for each center in `centers`
+    # Compute the total cost for each center in `centers
     #cost_center = {k: app_maxs[k] for k in centers}
     node_pointer = []
     for e in graphx:
@@ -114,11 +109,11 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
                     #print("prospect: ", prospect)
                     #new_cost_center = {k:v for k,v in cost_center.items() if k != center}
                     #new_cost_center[prospect] = prospect_distance
-                    new_centers.pop(center)
-                    new_centers.append(prospect)
+                    origional = new_centers[i]
+                    new_centers[i]=prospect
                     new_cost = c_cost(new_centers, all_node_keys, graphx, node_pointer)
                     #if sum(new_cost_center.values()) < sum(cost_center.values()):
-                    if new_cost < cost_center:
+                    if new_cost <= cost_center: # set new center, restart from first for loop
                         centers = new_centers
                         cost_center=new_cost
                         # If we're better off with `prospect`, then use it instead
@@ -127,10 +122,11 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
                         # Reassign centers and restart the while loop
                         #medians = [x for x in cost_center]
                         wrap = True
-                        break # out of the For loop
-            if wrap:
-                wrap = False
-                break
+                        # out of the For loop
+                    else:
+                        new_centers[i]=origional
+                        break
+
         if not wrap:
             # This happens if we've iterated all nodes
             # and none of them improved the solution.
@@ -191,27 +187,3 @@ plt.show()
 
 #puring process
 
-
-#p-center
-y=0
-for x in range(src):
-    if y == ppt:
-        plist.append(x)
-        y=-ppt
-    y+=1
-
-print("vertex with facilities: ", plist)
-b=0
-c=0
-for nd in G:
-    for fc in plist:
-        if nd == fc:
-            b=0
-            continue
-        a= nx.shortest_path_length(G, nd, fc)
-        if a < b or b==0:
-            b=a
-    if b > c:
-        c=b
-    b=0
-print("p-center max length: ",c)
