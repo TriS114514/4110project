@@ -26,18 +26,23 @@ def get_apsp(graphx, all_node_keys):
 def c_cost(centers, all_node_keys, graphx, node_pointer): # determine the max cost for current p-centers
     cost = 0
     min_cost = len(all_node_keys)
+    pop = False
     apsp = get_apsp(graphx, all_node_keys)
     # find the shortest path from all p, keep the max value
     for node in node_pointer:
         for center in centers: # do a pruning step is a node can't be max length
-            print(*centers)
-            print(*node_pointer)
+            #print(*centers)
+            #print(*node_pointer)
             temp_cost = nx.shortest_path_length(graphx, center, node)
             if temp_cost == 0: # if length is 0, then can't be max length so prune
                 node_pointer.pop(node)
+                pop = True
                 break
             elif temp_cost < min_cost:
                 min_cost = temp_cost
+        if pop:
+            pop = False
+            break
     if min_cost > cost:
         cost=min_cost
         min_cost = len(all_node_keys)
@@ -89,7 +94,7 @@ def p_center(p, graphx):
             'id': center,
         }
 
-    total_cost = sum(cost_center.values())
+    total_cost = cost_center
 
     return total_cost, node_information
 
@@ -101,8 +106,6 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
     while True:
         wrap = False
         for i, center in enumerate(centers):
-            if wrap:
-                break
             for j, prospect in enumerate(all_node_keys):
                 new_centers = centers # make copy of center to change
                 #prospect_distance = app_maxs[prospect]
@@ -125,6 +128,9 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
                         #medians = [x for x in cost_center]
                         wrap = True
                         break # out of the For loop
+            if wrap:
+                wrap = False
+                break
         if not wrap:
             # This happens if we've iterated all nodes
             # and none of them improved the solution.
@@ -169,13 +175,16 @@ print(ppt)
 plist = []
 
 graphdict = dict(nx.all_pairs_shortest_path_length(G))
-for k, v in graphdict.items():
-    print(k, v)
+#for k, v in graphdict.items():
+#    print(k, v)
 
 nx.draw(G)
 plt.show()
 
-p_center(p, G);
+final_cost, final_center = p_center(p, G);
+
+print("final cost: ",final_cost)
+print("facilities: ",final_center)
 
 nx.draw(G)
 plt.show()
