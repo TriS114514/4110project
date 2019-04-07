@@ -1,0 +1,2978 @@
+number of nodes:  30
+number of edges:  29
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+[(0, 1), (1, 2), (2, 3), (3, 4), (4, 5), (5, 6), (6, 7), (7, 8), (8, 9), (9, 10), (10, 11), (11, 12), (12, 13), (13, 14), (14, 15), (15, 16), (16, 17), (17, 18), (18, 19), (19, 20), (20, 21), (21, 22), (22, 23), (23, 24), (24, 25), (25, 26), (26, 27), (27, 28), (28, 29)]
+30
+15
+Evaluating Node:  0
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  1
+Centers:  1
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  2
+Centers:  2
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  3
+Centers:  3
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  4
+Centers:  4
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  5
+Centers:  5
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  6
+Centers:  6
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  7
+Centers:  7
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  8
+Centers:  8
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  9
+Centers:  9
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  10
+Centers:  10
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  11
+Centers:  11
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  12
+Centers:  12
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  13
+Centers:  13
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  14
+Centers:  14
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  15
+Centers:  15
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  16
+Centers:  16
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  0
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+prune this Node
+---
+Evaluating Node:  1
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  2
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  3
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  4
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  5
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  6
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  7
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  8
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  9
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  10
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  11
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  12
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  13
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  14
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  15
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  16
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  17
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  18
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  19
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  20
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  21
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  22
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  23
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  24
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  25
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  26
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  27
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  28
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+Evaluating Node:  29
+Evaluating Center Candidate:  0
+Centers:  0
+Node_pointer:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+---
+final cost:  15
+facilities:  {15: {'id': 15}}
