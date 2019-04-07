@@ -35,13 +35,17 @@ def c_cost(centers, all_node_keys, graphx, node_pointer): # determine the max co
             print("Evaluating Center Candidate: ", center)
             print("Centers: ", *centers)
             print("Node_pointer: ", *node_pointer)
-            print("---")
+            
             temp_cost = nx.shortest_path_length(graphx, center, node)
-            #    node_pointer.pop(node)
-            #    pop = True
-            #    continue
-            if temp_cost < min_cost:
+            if temp_cost <= cost:
+                print("prune this Node")
+                pop=True# prune out if a cost was 0
+            elif temp_cost < min_cost:
                 min_cost = temp_cost
+            print("---")
+        if pop:
+            pop = False
+            continue
         if min_cost > cost:
             cost=min_cost
 
