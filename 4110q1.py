@@ -17,7 +17,6 @@ np.random.seed(1)
 def get_apsp(graphx, all_node_keys):
     apsp = {}
     for i, node in enumerate(all_node_keys):
-        #print('{}:{}'.format(i, len(all_node_keys)))
         # Compute the length of paths from node to every other node
         apsp[node] = nx.shortest_path_length(graphx, source=node)
 
@@ -32,17 +31,20 @@ def c_cost(centers, all_node_keys, graphx, node_pointer): # determine the max co
     for node in node_pointer:
         min_cost = len(all_node_keys)
         for center in centers: # do a pruning step is a node can't be max length
-            #print(*centers)
-            #print(*node_pointer)
+            print("Evaluating Node: ", node)
+            print("Evaluating Center Candidate: ", center)
+            print("Centers: ", *centers)
+            print("Node_pointer: ", *node_pointer)
+            print("---")
             temp_cost = nx.shortest_path_length(graphx, center, node)
             #    node_pointer.pop(node)
             #    pop = True
             #    continue
             if temp_cost < min_cost:
-                min_cost = temp_cost    
+                min_cost = temp_cost
         if min_cost > cost:
             cost=min_cost
-            
+
     return cost
 
 
@@ -58,7 +60,7 @@ def p_center(p, graphx):
         apsp.items()
     }
 
-    # Get rid of 0 length paths
+    # Get rid of 0 length paths (some pruning handled here)
     all_node_keys = [x for x in all_node_keys if app_maxs[x] != 0]
     apsp = {k:v for k,v in apsp.items() if v != 0}
 
@@ -66,7 +68,6 @@ def p_center(p, graphx):
     centers = all_node_keys[:p]
 
     # Compute the total cost for each center in `centers
-    #cost_center = {k: app_maxs[k] for k in centers}
     node_pointer = []
     for e in graphx:
         node_pointer.append(e)
@@ -103,28 +104,17 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
         for i, center in enumerate(centers):
             for j, prospect in enumerate(all_node_keys):
                 new_centers = centers # make copy of center to change
-                #prospect_distance = app_maxs[prospect]
                 if prospect not in centers:
                     # Replace `center` in cost_center with `prospect`
-                    #print("prospect: ", prospect)
-                    #new_cost_center = {k:v for k,v in cost_center.items() if k != center}
-                    #new_cost_center[prospect] = prospect_distance
-                    origional = new_centers[i]
+                    original = new_centers[i]
                     new_centers[i]=prospect
                     new_cost = c_cost(new_centers, all_node_keys, graphx, node_pointer)
-                    #if sum(new_cost_center.values()) < sum(cost_center.values()):
                     if new_cost <= cost_center: # set new center, restart from first for loop
                         centers = new_centers
                         cost_center=new_cost
-                        # If we're better off with `prospect`, then use it instead
-                        #cost_center.pop(center, None)
-                        #cost_center[prospect] = app_maxs[prospect]
-                        # Reassign centers and restart the while loop
-                        #medians = [x for x in cost_center]
                         wrap = True
-                        # out of the For loop
                     else:
-                        new_centers[i]=origional
+                        new_centers[i]=original
                         break
 
         if not wrap:
@@ -132,23 +122,13 @@ def calc_p_center(centers, all_node_keys, app_maxs, graphx, cost_center, node_po
             # and none of them improved the solution.
             return centers, cost_center
 
-#generate random path
-#rnd = random.randint(10,15)
-
 #set number of nodes
 src = int(input("# of nodes for the graph: ")) # user enters # of nodes
 G = nx.Graph()
 H=nx.path_graph(src)
 G.add_nodes_from(H)
 
-#add edges to nodes(random)
-#i = 0
-#for n in G:
-#    j = choice([k for k in range(0,src) if k not in [i]])
-#    G.add_edge(i,j)
-#    i+=1
-
-#add edges to node(straight)
+#add edges to node
 for n in range(src-1):
     G.add_edge(n,n+1)
 
@@ -163,27 +143,14 @@ print(ndc)
 print(edc)
 
 #set the p value
-p = int(input("the # of facilities: "))
+p = 1
 opt = int(float(src)/p) #round down
 ppt = math.ceil(opt/2)
 print(opt)
 print(ppt)
 plist = []
 
-graphdict = dict(nx.all_pairs_shortest_path_length(G))
-#for k, v in graphdict.items():
-#    print(k, v)
-
-nx.draw(G)
-plt.show()
-
 final_cost, final_center = p_center(p, G);
 
 print("final cost: ",final_cost)
 print("facilities: ",final_center)
-
-nx.draw(G)
-plt.show()
-
-#puring process
-
